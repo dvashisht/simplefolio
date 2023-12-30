@@ -17,7 +17,7 @@
 ⚡️ Optimized with Parcel\
 ⚡️ Well organized documentation
 
-To view the demo: **[click here](https://the-simplefolio.netlify.app/)**
+To view the demo: **[click here](http://portfolio.infocodesolutions.com/)**
 
 ---
 
@@ -55,7 +55,7 @@ From your command line, first clone Simplefolio:
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/cobidev/simplefolio
+$ git clone https://github.com/dvashisht/simplefolio
 
 # Move into the repository
 $ cd simplefolio
@@ -324,7 +324,7 @@ $secondary-color: #00cdac;
 
 Once you finish your setup. You need to put your website online!
 
-I highly recommend to use [Netlify](https://netlify.com) because it is super easy.
+I highly recommend to use [Render](https://render.com/) because it is super easy.
 
 ## Others versions 👥
 
@@ -341,11 +341,7 @@ I highly recommend to use [Netlify](https://netlify.com) because it is super eas
 
 ## Authors
 
-- **Jacobo Martinez** - [https://github.com/cobidev](https://github.com/cobidev)
-
-## Status
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3a029bfd-575c-41e5-8249-c864d482c2e5/deploy-status)](https://app.netlify.com/sites/the-simplefolio/deploys)
+- **Dinesh Vashisht** - [https://github.com/dvashisht](https://github.com/dvashisht)
 
 ## License 📄
 
@@ -353,4 +349,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments 🎁
 
-I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
+Thanks to [ZTM Community](https://github.com/zero-to-mastery), [Andrei](https://github.com/aneagoie), and [Jacobo Martinez](https://github.com/cobidev)
